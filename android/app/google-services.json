@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21982079179",
+    "firebase_url": "https://travelerapp-fbbcd-default-rtdb.firebaseio.com",
+    "project_id": "travelerapp-fbbcd",
+    "storage_bucket": "travelerapp-fbbcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21982079179:android:ab79ca3e11e0aa6fc5534e",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21982079179-nrb9vnvao5qrbgigkmb4fhgvh8mdsq5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_app",
+            "certificate_hash": "4fff6392122284b7dd7d543542b3ba3b7c504444"
+          }
+        },
+        {
+          "client_id": "21982079179-mvhpkd3rsn1mqeh8us3clcu2r1ompci1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODqLcthRlXaZTXMNbiYtiDysCNVy6YEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21982079179-mvhpkd3rsn1mqeh8us3clcu2r1ompci1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
